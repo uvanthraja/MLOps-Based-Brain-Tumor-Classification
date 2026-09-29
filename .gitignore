@@ -1,0 +1,42 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+
+# Virtual environments
+venv/
+.venv/
+env/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# MLflow
+mlruns/
+mlflow_artifacts/
+
+# Dataset
+dataset/
+
+# Large model files
+*.h5
+*.keras
+*.ckpt
+*.pth
+*.pt
+
+# Generated files
+*.png
+*.jpg
+*.jpeg
+
+# TensorFlow
+checkpoint/
+
+# IDE
+.vscode/
+.idea/
+
+# OS
+.DS_Store
+Thumbs.db
